@@ -7,7 +7,7 @@ _______________________
 题目：家电企业库存管理信息系统
 
 
-*第一周*
+**第一周**
 
 1.完成题目确定及分析，分配任务。
 
@@ -36,7 +36,7 @@ _______________________
 ![default](https://cloud.githubusercontent.com/assets/16081097/20486030/1fd53fa4-b039-11e6-8caa-929372e29c6f.JPG)
 
 
-*第二周*
+**第二周**
 
 1.对于系统功能的进一步细化和分析
 
@@ -49,6 +49,7 @@ _______________________
 管理信息系统界面截图
 
 ![3b kz zd c_1vh zr n t](https://cloud.githubusercontent.com/assets/16081097/20658901/1da6e4fc-b57b-11e6-9d4e-d9e8f5f380c5.png)
+
 分析报告截图
 
 ![zcyc7ll 0286yoz2c9lyd0](https://cloud.githubusercontent.com/assets/16081097/20658909/2520df9e-b57b-11e6-8040-d62695766f49.png)
